@@ -1,5 +1,3 @@
-# Combo.ahk
-
 This AutoHotkey script allows you to define custom keybindings for executing sequences of key presses. It is particularly useful for automating repetitive tasks or executing complex keyboard shortcuts with a single keystroke.
 
 ## Features
